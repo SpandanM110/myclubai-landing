@@ -1,6 +1,6 @@
 "use client"
 import styles from "@/styles/style";
-import { Navbar, Hero, Stats, Business, Billing, CardDeal, Testimonials, Clients, CTA, Footer } from "@/components"
+import { Navbar, Hero, Business, Billing, CardDeal, Testimonials, Clients, CTA, Footer } from "@/components"
 const Home: React.FC = () => {
   return (
     <>
