@@ -21,7 +21,7 @@ const Home: React.FC = () => {
             <Business />
             {/* <Billing /> */}
             {/* <CardDeal /> */}
-            <Testimonials />
+            {/* <Testimonials /> */}
             {/* <Clients /> */}
             <CTA />
             <Footer />
